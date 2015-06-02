@@ -1,2 +1,9 @@
+# Builds
 platforms/
 plugins/
+# Emacs for Louis
+*~
+\#*\#
+# NPM
+node_modules/
+npm-debug.log

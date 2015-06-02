@@ -1,0 +1,24 @@
+{
+  "name": "icarus",
+  "version": "0.0.1",
+  "description": "Earn Your Wings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThraxisGames/Icarus.git"
+  },
+  "author": "Louis Fettet, Jarrett Revels, Zack Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThraxisGames/Icarus/issues"
+  },
+  "homepage": "https://github.com/ThraxisGames/Icarus",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cssimport": "^1.3.1",
+    "gulp-sass": "^2.0.1"
+  }
+}
