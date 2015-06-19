@@ -7,3 +7,5 @@ plugins/
 # NPM
 node_modules/
 npm-debug.log
+# Bower 
+src/scripts/vendor/
